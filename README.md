@@ -16,13 +16,13 @@
 - Internaltional Conference on Computer Vision and Pattern Recogintion (CVPR), h5-index:**188**
 
 
-### 第一梯队(领域顶会)
+### 第一梯队(领域)
 
 - Robotics: Science and Systems (RSS), h5-index: **49**
 - IEEE The International Conference on Robotics and Automation (ICRA), h5-index:**75**
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS）, h5-index:**54**
 
-### 第二梯队会议
+### 第二梯队
 
 - IEEE International Conference on Robotics and Biomimetics (ROBIO), h5-index:16
 - IEEE International Conference on Real-time Computing and Robotics (RCAR), h5-index:5
@@ -32,7 +32,7 @@
 - IEEE International Conference on Advanced Intelligent Mechatronics (AIM), h5-index:**20**
 - IEEE International Conference on Humanoid Robots (Humanoids), h5-index:**26**
 
-### 第三梯队会议
+### 第三梯队
 
 - International Conference on Climbing and Walking Robots (CLAWAR), h5-index:N./A.
 - IEEE International Conference on Information and Automation (ICIA), h5-index:N./A.
@@ -42,14 +42,14 @@
 
 ## 期刊
 
-### 第一梯队(综合性顶刊)
+### 第一梯队(综合)
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), IF:**9.455**, CAS-Q1, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
 - International Journal of Computer Vision (IJCV), IF:**6.071**, CAS-Q1, https://link.springer.com/journal/11263
 - IEEE Transactionson Image Processing (T-IP), IF:**6.79**, CAS-Q1, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
 - IEEE Transactions on Cybernetics (T-CYB), IF:**10.387**, CAS-Q1, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
   
-### 第一梯队(领域内顶刊)
+### 第一梯队(领域)
 
 - IEEE Transactions on Robotics (T-RO), IF:**6.483**, CAS-Q2, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860
 - International Journal of Robotics Research (IJRR), IF:**6.134**, CAS-Q2, http://ijr.sagepub.com/
