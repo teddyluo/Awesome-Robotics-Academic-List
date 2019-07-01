@@ -1,4 +1,4 @@
-# Awesome-Robot-academic-list
+# Awesome-Robotics-Academic-List
 
 ## 介绍
 本页面收集机器人领域重要的学术期刊、学术会议进行分类。
