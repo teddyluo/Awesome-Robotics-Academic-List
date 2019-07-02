@@ -95,6 +95,7 @@
 - 《计算机学报》, EI, h5-index:29, http://cjc.ict.ac.cn/
 - 《自动化学报》, EI, h5-index:24, http://www.aas.net.cn/CN/volumn/current.shtml
 - 《软件学报》, EI, h5-index:25, http://www.jos.org.cn/jos/ch/index.aspx
+- 《中国科学: 技术科学》, EI, h5-index:11, http://engine.scichina.com/publisher/scp/journal/SST 
 
 **参考** 
 
