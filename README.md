@@ -2,7 +2,11 @@
 
 ## 介绍
 
-本页面收集机器人领域重要的学术期刊、学术会议进行分类。
+本页面收集机器人领域重要的学术期刊、学术会议，根据会议、期刊的质量和影响力进行简单分类。
+
+- 会议的`h5-index`根据[Google Scholar Metric](https://scholar.google.com/citations?view_op=top_venues&hl=en)查询结果（2019年7月）
+- 期刊的`IF`通过[greenSCI.net](http://www.greensci.net/)查询取得（2019年）
+- `CAS-Q-Level`通过[LetPub.com](https://www.letpub.com/index.php?page=journalapp&view=search)查询取得（2019年）
 
 ---
 
